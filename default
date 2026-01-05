@@ -1,0 +1,1082 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16735454532"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      // Configuração do Analytics 4
+      gtag('config', 'G-DE1DPQ35Q0');
+      
+      // Configuração do Google Ads
+      gtag('config', 'AW-16735454532');
+    </script>
+
+    <script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.open(url, '_blank'); // Abre o WhatsApp numa nova aba
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-16735454532/BthgCPjW5c8bEMSKi6w-', // Rótulo de Conversão Correto
+          'value': 1.0,
+          'currency': 'BRL',
+          'event_callback': callback
+      });
+      return false; // Impede o link padrão para que o script controle a abertura
+    }
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zolet'S Gás - Distribuidora Ultragaz em Cascavel-PR | Entrega Rápida e Qualidade</title>
+    
+    <meta name="description" content="Zolet'S Gás: Sua distribuidora Ultragaz de confiança em Cascavel-PR. Oferecemos botijão de gás P13, galão de água 20L, mangueiras e registros com entrega rápida e segura.">
+    <meta name="keywords" content="Zolet'S Gás, Ultragaz Cascavel, gás de cozinha Cascavel, entrega de gás Cascavel, botijão P13, galão de água Cascavel, mangueira de gás, registro de gás, gás GLP Cascavel">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Zolet'S Gás">
+    <meta property="og:title" content="Zolet'S Gás - Distribuidora Ultragaz em Cascavel-PR">
+    <meta property="og:description" content="Qualidade, segurança e rapidez na entrega do seu gás de cozinha e água mineral em Cascavel.">
+    <meta property="og:image" content="https://placehold.co/1200x630/003366/FFFFFF?text=Zolet'S+Gás+Ultragaz"> 
+    <meta property="og:url" content=https://www.zoletsgas.com.br> 
+    <meta property="og:type" content="website">
+    <link rel="canonical" href="https://www.zoletsgas.com.br">
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Zolet'S Gás - Distribuidora Ultragaz",
+      "description": "Zolet'S Gás: Sua distribuidora Ultragaz de confiança em Cascavel-PR. Oferecemos botijão de gás P13, galão de água 20L, mangueiras e registros com entrega rápida e segura.",
+      "url": "https://www.zoletsgas.com.br",
+      "image": "https://placehold.co/1200x630/003366/FFFFFF?text=Zolet'S+Gás+Ultragaz",
+      "priceRange": "$$",
+      "telephone": "+5545999208741",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua Serra Negra, 1308",
+        "addressLocality": "Cascavel",
+        "addressRegion": "PR",
+        "postalCode": "85817-670",
+        "addressCountry": "BR"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          "opens": "07:00",
+          "closes": "22:00"
+        }
+      ],
+      "areaServed": {
+        "@type": "City",
+        "name": "Cascavel, Paraná"
+      },
+      "hasMap": "https://www.google.com.br/maps/search/Zolet'S+Gás+Rua+Serra+Negra,+1308,+Cascavel+-+PR",
+      "mainEntityOfPage": "https://www.zoletsgas.com.br",
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://wa.me/5545999208741?text=Olá!%20Gostaria%20de%20fazer%20um%20pedido%20de%20gás%20e%20água.",
+          "actionPlatform": [
+            "http://schema.org/DesktopWebPlatform",
+            "http://schema.org/MobileWebPlatform"
+          ]
+        },
+        "name": "Peça Gás Agora via WhatsApp"
+      },
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Botijão de Gás P-13 Ultragaz",
+            "description": "O tradicional botijão de 13kg. Preço base para entrega. Para retirada na portaria, consulte condições.",
+            "brand": { "@type": "Brand", "name": "Ultragaz" },
+            "category": "Gás GLP de Cozinha",
+            "image": "imagem/BOTIJÃO_DE_COZINHA_13KG_CASCAVEL-PR.jpg",
+            "sku": "BOT-P13",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "156"
+            },
+            "review": {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Marcos V."
+              },
+              "reviewBody": "Qualidade Ultragaz indiscutível. O botijão vem sempre limpo e lacrado. Recomendo."
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.zoletsgas.com.br/#produtos",
+              "priceCurrency": "BRL",
+              "price": "125.00",
+              "priceValidUntil": "2025-12-31",
+              "itemCondition": "https://schema.org/NewCondition",
+              "availability": "https://schema.org/InStock",
+              "seller": { "@type": "Organization", "name": "Zolet'S Gás" }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Galão de Água Mineral 20L (Recarga)",
+            "description": "Recarga de água mineral de fonte natural, leve e saudável.",
+            "category": "Água Mineral",
+            "image": "imagem/GALÃO_20L_CASCAVEL-PR.jpg",
+            "sku": "AGUA-20L-RECARGA",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "84"
+            },
+            "review": {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Patrícia B."
+              },
+              "reviewBody": "A água mineral é de excelente qualidade. O entregador sempre tem a gentileza de colocar no suporte."
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.zoletsgas.com.br/#produtos",
+              "priceCurrency": "BRL",
+              "price": "20.00",
+              "priceValidUntil": "2025-12-31",
+              "itemCondition": "https://schema.org/NewCondition",
+              "availability": "https://schema.org/InStock",
+              "seller": { "@type": "Organization", "name": "Zolet'S Gás" }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Mangueira para Gás (1.20m)",
+            "description": "Mangueira de segurança certificada pelo INMETRO.",
+            "category": "Acessórios",
+            "image": "imagem/MANGUEIRA_CASCAVEL-PR.jpg",
+            "sku": "MANG-120",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "32"
+            },
+            "review": {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Roberto M."
+              },
+              "reviewBody": "Muito atenciosos! Verificaram a validade e a instalação ficou perfeita."
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.zoletsgas.com.br/#produtos",
+              "priceCurrency": "BRL",
+              "price": "25.00",
+              "priceValidUntil": "2025-12-31",
+              "itemCondition": "https://schema.org/NewCondition",
+              "availability": "https://schema.org/InStock",
+              "seller": { "@type": "Organization", "name": "Zolet'S Gás" }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Válvula Reguladora de Gás (1kg/h)",
+            "description": "Registro regulador de pressão para gás de cozinha.",
+            "category": "Acessórios",
+            "image": "imagem/REGISTRO_CASCAVEL-PR.jpg",
+            "sku": "REG-1KG",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "45"
+            },
+            "review": {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Fernanda L."
+              },
+              "reviewBody": "Produto seguro e entrega rápida. O entregador explicou como usar o registro novo."
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.zoletsgas.com.br/#produtos",
+              "priceCurrency": "BRL",
+              "price": "60.00",
+              "priceValidUntil": "2025-12-31",
+              "itemCondition": "https://schema.org/NewCondition",
+              "availability": "https://schema.org/InStock",
+              "seller": { "@type": "Organization", "name": "Zolet'S Gás" }
+            }
+          }
+        }
+      ]
+    }
+    </script>
+    <link rel="icon" href="imagem/favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <style>
+        /* PALETA DE CORES (Mantida) */
+        :root {
+            --cor-primaria: #003366; /* Azul Escuro */
+            --cor-secundaria: #4DA6FF; /* Azul Claro */
+            --cor-cta: #25D366; /* Verde WhatsApp */
+            --cor-fundo: #FFFFFF;
+            --cor-texto: #333333;
+            --cor-acento-animacao: #FFD700; /* Dourado/Amarelo */
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Poppins', sans-serif;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            line-height: 1.6;
+            color: var(--cor-texto);
+            background-color: #F8F9FA;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+
+        /* HEADER & NAV */
+        header {
+            background-color: var(--cor-fundo);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 0;
+        }
+        .logo a {
+            color: var(--cor-primaria);
+            text-decoration: none;
+            font-size: 1.8em;
+            font-weight: 800;
+        }
+        .logo span {
+            color: var(--cor-secundaria);
+        }
+        nav ul { list-style: none; display: flex; }
+        nav ul li { margin-left: 25px; }
+        .nav-link-futuristic {
+            position: relative; font-weight: 600; transition: color 0.3s ease; cursor: pointer; padding-bottom: 8px; 
+            color: var(--cor-texto); text-decoration: none;
+        }
+        .nav-link-futuristic::after {
+            content: ''; position: absolute; width: 0; height: 3px; bottom: 0; left: 0; background-color: var(--cor-secundaria); 
+            transition: width 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); border-radius: 2px;
+        }
+        .nav-link-futuristic:hover::after, .nav-link-futuristic.active-nav-link::after { width: 100%; }
+        .nav-link-futuristic:hover { color: var(--cor-primaria); }
+        .active-nav-link { color: var(--cor-primaria) !important; font-weight: 800; }
+
+        /* HERO SECTION & CTA BUTTON */
+        #hero {
+            background: linear-gradient(135deg, var(--cor-primaria) 0%, #004587 100%);
+            color: var(--cor-fundo); text-align: center; padding: 120px 20px 80px; position: relative; z-index: 1;
+        }
+        #hero h1 { font-size: 3em; margin-bottom: 15px; font-weight: 700; }
+        #hero p { font-size: 1.3em; margin-bottom: 30px; font-weight: 400; }
+
+        .btn-cta {
+            display: inline-block; background-color: var(--cor-cta); color: var(--cor-fundo); padding: 15px 30px;
+            text-decoration: none; font-size: 1.2em; font-weight: 700; border-radius: 50px; transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+            box-shadow: 0 8px 20px rgba(37, 211, 102, 0.5); position: relative; overflow: hidden;
+        }
+        .btn-cta::before { 
+            content: ''; position: absolute; top: 0; left: -100%; width: 50%; height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent); transition: all 0.7s cubic-bezier(0.25, 0.8, 0.25, 1);
+        }
+        .btn-cta:hover::before { left: 100%; }
+        .btn-cta:hover { background-color: #1EAB58; transform: translateY(-4px) scale(1.02); box-shadow: 0 12px 30px rgba(37, 211, 102, 0.7); }
+
+        /* SECTIONS & TITLES */
+        section { padding: 60px 0; }
+        .section-title-modern {
+            font-size: 2.2rem; font-weight: 800; color: var(--cor-primaria); margin-bottom: 3rem; text-align: center; position: relative;
+        }
+        .section-title-modern::after {
+            content: ''; position: absolute; bottom: -10px; left: 50%; transform: translateX(-50%); width: 150px; height: 5px; 
+            background: linear-gradient(90deg, var(--cor-secundaria), var(--cor-acento-animacao)); border-radius: 3px;
+        }
+
+        /* PRODUTOS */
+        #produtos { background-color: #F0F5FA; }
+        .produtos-grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;
+        }
+        .product-card-modern {
+            background-color: var(--cor-fundo); border-radius: 8px; overflow: hidden; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+            text-align: center; padding-bottom: 20px; border: 1px solid #E3F2FD; transition: transform 0.4s ease, box-shadow 0.4s ease;
+            cursor: pointer;
+        }
+        .product-card-modern:hover {
+            transform: translateY(-10px) scale(1.02); box-shadow: 0 25px 50px rgba(0, 51, 102, 0.2); border-color: var(--cor-secundaria);
+        }
+        .product-card-modern img {
+            width: 100%; height: 160px; object-fit: contain; background-color: var(--cor-fundo); transition: transform 0.5s ease-in-out; padding: 10px;
+        }
+
+        /* DIFERENCIAIS (CORRIGIDO) */
+        .diferenciais-grid {
+            display: flex; gap: 30px; justify-content: center; padding-top: 30px;
+        }
+        .diferencial-item {
+            flex: 1; text-align: center; padding: 30px; border-radius: 8px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            background-color: #F8F8F8; transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .diferencial-item:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); }
+        .diferencial-item i { font-size: 3em; color: var(--cor-secundaria); margin-bottom: 15px; }
+        .diferencial-item h3 { font-size: 1.2em; color: var(--cor-primaria); margin-bottom: 10px; }
+
+        /* DEPOIMENTOS - NOVO ESTILO PARA TYPING ANIMATION */
+        #sobre-nos { background-color: var(--cor-fundo); }
+        .testimonial-typing-box {
+            margin: 30px auto;
+            max-width: 800px;
+            padding: 30px;
+            border-radius: 8px;
+            background-color: #F0F5FA; 
+            box-shadow: 0 5px 15px rgba(0, 51, 102, 0.1);
+            min-height: 200px; 
+            text-align: left; /* Alinhamento corrigido para o texto do depoimento */
+            border-left: 5px solid var(--cor-secundaria);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        #testimonial-quote {
+            font-size: 1.4em;
+            font-style: italic;
+            color: var(--cor-primaria);
+            min-height: 70px; 
+            margin-bottom: 15px;
+            white-space: pre-wrap; /* Permite quebras de linha e texto digitado */
+        }
+        #testimonial-meta {
+            font-size: 1.1em;
+            font-weight: 500;
+            color: var(--cor-texto);
+            min-height: 60px; /* Garante espaço para a informação */
+            line-height: 1.4;
+        }
+        .typing-cursor {
+            display: inline-block;
+            width: 2px;
+            height: 1.2em;
+            background-color: var(--cor-secundaria);
+            margin-left: 5px;
+            animation: blink 0.7s infinite;
+        }
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+
+        /* MODAL (Corrigido e Escondido por Padrão) */
+        .modal {
+            position: fixed; inset: 0; background-color: rgba(0, 0, 0, 0.8); 
+            display: flex; align-items: center; justify-content: center; padding: 1rem; z-index: 10000;
+            opacity: 0; visibility: hidden; transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+        }
+        .modal.active { opacity: 1; visibility: visible; }
+        .modal-content-container {
+            background-color: white; padding: 2rem; border-radius: 0.75rem; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+            width: 100%; max-width: 500px; transform: scale(0.95); opacity: 0; 
+            transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+        }
+        .modal.active .modal-content-container { transform: scale(1); opacity: 1; }
+        
+        /* OUTROS ESTILOS DE SEÇÕES (Rodapé, Contato, Animações) MANTIDOS */
+        .whatsapp-fixed {
+            position: fixed; bottom: 20px; right: 20px; z-index: 1000; background-color: var(--cor-cta); color: white;
+            padding: 15px; border-radius: 50%; font-size: 2em; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); transition: all 0.3s ease;
+        }
+        .whatsapp-fixed:hover { background-color: #128C7E; transform: scale(1.1) rotate(5deg); }
+        .animate-on-scroll { opacity: 0; transform: translateY(20px); transition: opacity 0.8s ease-out, transform 0.8s ease-out; }
+        .animate-on-scroll.is-visible { opacity: 1; transform: translateY(0); }
+        .scrolling-text-container {
+            width: 100%; display: flex; position: relative; overflow: hidden; white-space: nowrap; background-color: var(--cor-primaria);
+            border-top: 3px solid var(--cor-secundaria); padding: 10px 0;
+        }
+        .scrolling-text-content { animation: scroll-animation 60s linear infinite; padding-right: 30px; } 
+        @keyframes scroll-animation { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+        .keyword-item { color: var(--cor-fundo); font-weight: 600; letter-spacing: 0.05em; margin: 0 20px; display: inline-block; } 
+        .separator { color: var(--cor-acento-animacao); font-size: 1.2em; font-weight: 900; margin: 0 5px; opacity: 0.8; } 
+
+        /* Contato */
+        #contato { background-color: #F0F5FA; }
+        .contact-info-grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 30px 0;
+            background-color: var(--cor-fundo); border-radius: 8px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        .contact-item { text-align: center; padding: 15px; border-right: 1px solid #eee; }
+        .contact-item:last-child { border-right: none; }
+        .contact-item i { color: var(--cor-secundaria); font-size: 2.5em; margin-bottom: 10px; }
+        .contact-item p, .contact-item a { font-size: 1.1em; color: var(--cor-primaria); font-weight: 600; text-decoration: none; }
+        .contact-item a:hover { text-decoration: underline; }
+        .map-container { height: 400px; border-radius: 8px; overflow: hidden; margin-top: 30px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); }
+        
+        /* Rodapé */
+        footer {
+            background-color: var(--cor-primaria);
+            color: var(--cor-fundo);
+            padding: 40px 0 20px;
+        }
+        .footer-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 30px;
+        }
+        footer h3 {
+            font-size: 1.4em;
+            font-weight: 700;
+            margin-bottom: 15px;
+            color: var(--cor-acento-animacao);
+        }
+        footer p, footer a {
+            color: #C3DFFF;
+            font-size: 0.95em;
+            text-decoration: none;
+            display: block;
+            margin-bottom: 8px;
+            transition: color 0.3s;
+        }
+        footer a:hover {
+            color: var(--cor-fundo);
+        }
+        .social-icons a {
+            display: inline-block;
+            font-size: 1.5em;
+            margin-right: 15px;
+            color: var(--cor-secundaria);
+        }
+        .social-icons a:hover {
+            color: var(--cor-fundo);
+        }
+        
+        /* Responsividade (Ajustada) */
+        @media (max-width: 900px) {
+            .diferenciais-grid { flex-direction: column; }
+            .header-content { flex-wrap: wrap; padding: 10px 0; }
+            .logo { flex-grow: 1; }
+            nav { display: none; }
+            #hero h1 { font-size: 2.2em; }
+            .footer-grid { grid-template-columns: 1fr; text-align: center; }
+            .contact-info-grid { grid-template-columns: 1fr; }
+            .contact-item { border-right: none; border-bottom: 1px solid #eee; }
+            .contact-item:last-child { border-bottom: none; }
+            .mobile-only { display: block !important; } 
+            .hidden-mobile { display: none; }
+            .testimonial-typing-box { padding: 20px; }
+            #testimonial-quote { font-size: 1.2em; }
+            #testimonial-meta { font-size: 1em; }
+        }
+        .hidden-mobile-menu { display: none; }
+        #mobileMenu.open { display: block; }
+
+    </style>
+</head>
+<body>
+
+    <header id="header">
+        <div class="container header-content">
+            <div class="logo"><a href="#hero" class="nav-link-logo" data-target="#hero">Zolet<span>'S</span> Gás</a></div>
+            
+            <nav class="hidden-mobile">
+                <ul>
+                    <li><a href="#hero" class="nav-link-futuristic active-nav-link" data-target="#hero">Home</a></li>
+                    <li><a href="#produtos" class="nav-link-futuristic" data-target="#produtos">Produtos</a></li>
+                    <li><a href="#diferenciais" class="nav-link-futuristic" data-target="#diferenciais">Diferenciais</a></li>
+                    <li><a href="#sobre-nos" class="nav-link-futuristic" data-target="#sobre-nos">Sobre Nós</a></li>
+                    <li><a href="#contato" class="nav-link-futuristic" data-target="#contato">Contato</a></li>
+                </ul>
+            </nav>
+            
+            <div class="mobile-only" style="display: none;">
+                <button id="hamburgerBtn" style="background: none; border: none; font-size: 1.5em; color: var(--cor-primaria); cursor: pointer;">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </div>
+        
+        <div id="mobileMenu" class="hidden-mobile-menu">
+            <ul style="list-style: none; padding: 10px; background-color: var(--cor-fundo); border-top: 1px solid #eee;">
+                <li><a href="#hero" class="nav-link-futuristic" data-target="#hero" style="display: block; padding: 10px;">Home</a></li>
+                <li><a href="#produtos" class="nav-link-futuristic" data-target="#produtos" style="display: block; padding: 10px;">Produtos</a></li>
+                <li><a href="#diferenciais" class="nav-link-futuristic" data-target="#diferenciais" style="display: block; padding: 10px;">Diferenciais</a></li>
+                <li><a href="#sobre-nos" class="nav-link-futuristic" data-target="#sobre-nos" style="display: block; padding: 10px;">Sobre Nós</a></li>
+                <li><a href="#contato" class="nav-link-futuristic" data-target="#contato" style="display: block; padding: 10px;">Contato</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main>
+        <section id="hero" class="animate-on-scroll">
+            <div class="container">
+                <img src="https://placehold.co/120x120/FFFFFF/003366?text=Ultragaz&font=Poppins" 
+                     alt="[Logo Ultragaz]" 
+                     class="mx-auto mb-6 w-24 h-24 sm:w-32 sm:h-32 md:w-40 md:h-40 rounded-full shadow-2xl border-4 border-white"
+                     style="margin: 0 auto 20px; display: block;">
+                
+                <h1 style="color: var(--cor-fundo);">Gás de Cozinha e Água Mineral em Cascavel? Pede na Zolet'S!</h1>
+                <p>Profissionalismo, segurança e agilidade na entrega. Sua tranquilidade é nossa prioridade.</p>
+                <a href="https://wa.me/5545999208741?text=Olá!%20Gostaria%20de%20fazer%20um%20pedido." onclick="return gtag_report_conversion(this.href);" class="btn-cta">
+                    <i class="fab fa-whatsapp"></i> PEÇA AGORA PELO WHATSAPP!
+                </a>
+            </div>
+        </section>
+
+        <section class="scrolling-text-container">
+            <div class="scrolling-text-content">
+                <span class="keyword-item">Atendemos Toda a Região de Cascavel</span> <span class="separator">•</span>
+                <span class="keyword-item">Entrega Rápida no Morumbi</span> <span class="separator">•</span>
+                <span class="keyword-item">Entrega Rápida no Cascavel Velho</span> <span class="separator">•</span>
+                <span class="keyword-item">Entrega Rápida no Alto Alegre</span> <span class="separator">•</span>
+                <span class="keyword-item">Entrega Rápida no Cancelli</span> <span class="separator">•</span>
+                <span class="keyword-item">Entrega Rápida no Maria Luiza</span> <span class="separator">•</span>
+                <span class="keyword-item">Entrega Rápida no Esmeralda</span> <span class="separator">•</span>
+                <span class="keyword-item">Entrega Rápida no Santa Cruz</span> <span class="separator">•</span>
+                <span class="keyword-item">Entrega Rápida no Universitário</span> <span class="separator">•</span>
+                <span class="keyword-item">Entrega Rápida no Pacaembu</span> <span class="separator">•</span>
+                <span class="keyword-item">Entrega Rápida no Country</span> <span class="separator">•</span>
+                <span class="keyword-item">Entrega Rápida na Região do Lago</span> <span class="separator">•</span>
+                <span class="keyword-item">Atendemos todos os bairros de Cascavel com agilidade e eficiência</span> <span class="separator">•</span>
+            </div>
+        </section>
+
+        <section id="produtos">
+            <div class="container">
+                <h2 class="section-title-modern animate-on-scroll">Nossos Produtos</h2>
+                <div class="produtos-grid">
+                    <div class="product-card-modern animate-on-scroll" data-product-id="botijao13kg" data-delay="100">
+                        <img src="imagem/BOTIJÃO_DE_COZINHA_13KG_CASCAVEL-PR.jpg" alt="Botijão de Gás P-13 Ultragaz" onerror="this.onerror=null; this.src='https://placehold.co/400x160/4DA6FF/FFFFFF?text=Gás+P13+Ultragaz';">
+                        <h3>Gás P-13 Ultragaz</h3>
+                        <p>O tradicional para sua cozinha. Segurança e qualidade Ultragaz.</p>
+                        <a href="https://wa.me/5545999208741?text=Olá!%20Gostaria%20de%20comprar%20um%20Botijão%20de%20Gás." class="btn-cta" style="background-color: var(--cor-cta);" onclick="return gtag_report_conversion(this.href);"><i class="fab fa-whatsapp"></i> Comprar</a>
+                    </div>
+                    <div class="product-card-modern animate-on-scroll" data-product-id="galao20l" data-delay="200">
+                        <img src="imagem/GALÃO_20L_CASCAVEL-PR.jpg" alt="Galão de Água Mineral 20L" onerror="this.onerror=null; this.src='https://placehold.co/400x160/003366/FFFFFF?text=Água+Mineral+20L';">
+                        <h3>Água Mineral 20L</h3>
+                        <p>Água mineral de qualidade para sua hidratação e saúde.</p>
+                        <a href="https://wa.me/5545999208741?text=Olá!%20Gostaria%20de%20comprar%20um%20Galão%20de%20Água%2020L." class="btn-cta" style="background-color: var(--cor-cta);" onclick="return gtag_report_conversion(this.href);"><i class="fab fa-whatsapp"></i> Comprar</a>
+                    </div>
+                    <div class="product-card-modern animate-on-scroll" data-product-id="mangueira" data-delay="300">
+                        <img src="imagem/MANGUEIRA_CASCAVEL-PR.jpg" alt="Mangueira para Gás" onerror="this.onerror=null; this.src='https://placehold.co/400x160/4DA6FF/FFFFFF?text=Mangueira+de+Gás';">
+                        <h3>Mangueira para Gás</h3>
+                        <p>Certificada e segura, dentro das normas de validade.</p>
+                        <a href="https://wa.me/5545999208741?text=Olá!%20Gostaria%20de%20comprar%20uma%20Mangueira%20para%20Gás." class="btn-cta" style="background-color: var(--cor-cta);" onclick="return gtag_report_conversion(this.href);"><i class="fab fa-whatsapp"></i> Comprar</a>
+                    </div>
+                    <div class="product-card-modern animate-on-scroll" data-product-id="registro" data-delay="400">
+                        <img src="imagem/REGISTRO_CASCAVEL-PR.jpg" alt="Registro para Gás" onerror="this.onerror=null; this.src='https://placehold.co/400x160/003366/FFFFFF?text=Registro+de+Gás';">
+                        <h3>Registro para Gás</h3>
+                        <p>Essencial para a segurança da sua instalação de gás.</p>
+                        <a href="https://wa.me/5545999208741?text=Olá!%20Gostaria%20de%20comprar%20um%20Registro%20para%20Gás." class="btn-cta" style="background-color: var(--cor-cta);" onclick="return gtag_report_conversion(this.href);"><i class="fab fa-whatsapp"></i> Comprar</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="diferenciais">
+            <div class="container">
+                <h2 class="section-title-modern animate-on-scroll">Por Que a Zolet'S é Referência em Cascavel?</h2>
+                <div class="diferenciais-grid">
+                    <div class="diferencial-item animate-on-scroll" data-delay="100">
+                        <i class="fas fa-certificate"></i>
+                        <h3>Qualidade Ultragaz.</h3>
+                        <p>A marca mais confiável na sua casa. Segurança e procedência garantidas.</p>
+                    </div>
+                    <div class="diferencial-item animate-on-scroll" data-delay="200">
+                        <i class="fas fa-truck-fast"></i>
+                        <h3>Entrega Ágil.</h3>
+                        <p>O gás chega rápido na sua porta. Não perca tempo, peça na Zolet'S.</p>
+                    </div>
+                    <div class="diferencial-item animate-on-scroll" data-delay="300">
+                        <i class="fas fa-handshake"></i>
+                        <h3>Atendimento Nota 10.</h3>
+                        <p>Profissionalismo, segurança e foco total na sua satisfação.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="sobre-nos">
+            <div class="container">
+                <h2 class="section-title-modern animate-on-scroll">Quem Compra, Confia.</h2>
+                <div style="display: flex; gap: 30px; align-items: center; margin-bottom: 40px; flex-wrap: wrap;">
+                    <div style="flex: 1; min-width: 300px;" class="animate-on-scroll" data-delay="100">
+                        <img src="imagem/sobrenos.jpeg" alt="[Imagem ilustrativa da história da Zolet'S Gás Cascavel-PR]" 
+                             style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);" 
+                             onerror="this.onerror=null; this.src='https://placehold.co/600x400/CCCCCC/969696?text=Imagem Indisponível';">
+                    </div>
+                    <div style="flex: 1; min-width: 300px; text-align: left;" class="animate-on-scroll" data-delay="200">
+                        <h3 style="font-size: 1.5em; color: var(--cor-primaria); margin-bottom: 10px;">A História da Zolet'S Gás</h3>
+
+				<p style="font-size: 1em; line-height: 1.6; margin-bottom: 10px;">Com profissionalismo e dedicação, a <strong>Zolet'S Gás</strong> é sua distribuidora de confiança de gás de cozinha (GLP) e água mineral na cidade de Cascavel, Paraná.</p>
+
+				<p style="font-size: 1em; line-height: 1.6; margin-bottom: 10px;">Há 4 anos no mercado, nossa trajetória é marcada pela seriedade, responsabilidade e um firme compromisso com a satisfação de cada cliente em Cascavel.</p>
+
+				<p style="font-size: 1em; line-height: 1.6; margin-bottom: 10px;">Fundada com o objetivo de oferecer um serviço rápido, seguro e com atendimento diferenciado, a Zolet'S Gás orgulha-se de ser a escolha número um de inúmeras famílias e empresas em Cascavel.</p>
+
+				<p style="font-size: 1em; line-height: 1.6; margin-bottom: 10px;">Trabalhamos exclusivamente com marcas de excelência, como a Ultragaz, garantindo a qualidade e a segurança que você merece. Oferecemos botijões de gás de 13kg, água mineral em galões de 20L, registros reguladores e mangueiras para gás.</p>
+
+				<p style="font-size: 1em; line-height: 1.6; margin-bottom: 10px;">Nossa equipe está sempre pronta para atendê-lo da melhor forma possível, com eficiência, segurança e o profissionalismo que você merece, exclusivamente em Cascavel.</p>
+
+				<p style="font-size: 1em; line-height: 1.6;">Na <strong>Zolet'S Gás</strong>, nossa prioridade é a sua tranquilidade e a qualidade dos produtos que chegam até você. Atendendo Cascavel com dedicação e a confiança que nos tornou referência!</p>
+                    </div>
+                </div>
+                
+                <h3 style="font-size: 1.8em; color: var(--cor-primaria); margin-bottom: 20px;" class="animate-on-scroll">O que dizem nossos clientes</h3>
+                <div class="testimonial-typing-box animate-on-scroll">
+                    <div id="testimonial-quote">
+                        <span class="typing-cursor"></span>
+                    </div>
+                    <div id="testimonial-meta">
+                        </div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="contato">
+            <div class="container">
+                <h2 class="section-title-modern animate-on-scroll">Entre em Contato</h2>
+                
+                <div class="contact-info-grid animate-on-scroll" data-delay="100">
+                    <div class="contact-item">
+                        <i class="fab fa-whatsapp"></i>
+                        <p>WhatsApp: <a href="https://wa.me/5545999208741?text=Ol%C3%A1!%20Gostaria%20de%20fazer%20um%20pedido." onclick="return gtag_report_conversion(this.href);">(45) 99920-8741</a></p>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-envelope"></i>
+                        <p>E-mail: <a href="mailto:zoletgas@gmail.com">zoletgas@gmail.com</a></p>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-clock"></i>
+                        <p>Entrega: 07:00 - 22:00</p>
+                        <p style="font-size: 0.9em; font-weight: 400; color: #666;">Segunda, Domingos e Feriados</p>
+                    </div>
+                    <div class="contact-item" style="border-right: none;">
+                         <i class="fas fa-map-marker-alt"></i>
+                        <p>Endereço:</p>
+                        <p style="font-size: 0.9em; font-weight: 400; color: #666;">R. Serra Negra, 1308 - Morumbi</p>
+                    </div>
+                </div>
+                
+                <div class="map-container animate-on-scroll" data-delay="300">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3617.7018800481533!2d-53.40612052524427!3d-24.94222387787603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f3d52cdd964df7%3A0x7bb526e849e5928b!2sZolet'S%20G%C3%A1s!5e0!3m2!1spt-BR!2sbr!4v1743594057964!5m2!1spt-BR!2sbr"
+                        width="100%"
+                        height="100%"
+                        style="border:0;"
+                        allowfullscreen=""
+                        loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"
+                        title="Localização da Zolet'S Gás em Cascavel-PR">
+                    </iframe>
+                </div>
+                <div style="text-align: center; margin-top: 20px;">
+                    <a href="https://wa.me/5545999208741?text=Olá!%20Gostaria%20de%20fazer%20um%20pedido%20de%20gás%20e%20água." class="btn-cta" style="margin-top: 20px; font-size: 1em;" onclick="return gtag_report_conversion(this.href);"><i class="fab fa-whatsapp"></i> FAÇA SEU PEDIDO AGORA!</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div>
+                    <h3>Zolet'S Gás</h3>
+                    <p>Profissionalismo e Agilidade em Cascavel, PR.</p>
+                </div>
+                <div>
+                    <h3>Links Úteis</h3>
+                    <a href="#hero">Home</a>
+                    <a href="#produtos">Produtos</a>
+                    <a href="#sobre-nos">Sobre Nós</a>
+                </div>
+                <div>
+                    <h3>Contato</h3>
+                    <p><i class="fab fa-whatsapp"></i> (45) 99920-8741</p>
+                    <p><i class="fas fa-envelope"></i> zoletgas@gmail.com</p>
+                    <p><i class="fas fa-map-marker-alt"></i> R. Serra Negra, 1308 - Morumbi</p>
+                </div>
+                <div>
+                    <h3>Siga-nos</h3>
+                    <div class="social-icons">
+                        <a href="https://www.instagram.com/zoletsgas?igsh=MWVtazN6M2o0Z3kwMw==" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/share/1FHyngpvpz/?mibextid=wwXIfr" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div style="text-align: center; margin-top: 30px; border-top: 1px solid #1A4778; padding-top: 20px;">
+                <p>© <span id="currentYear"></span> Zolet'S Gás. Todos os direitos reservados. Cascavel-PR</p>
+            </div>
+        </div>
+    </footer>
+
+    <a href="https://wa.me/5545999208741?text=Olá!%20Gostaria%20de%20fazer%20um%20pedido%20de%20gás%20e%20água." class="whatsapp-fixed" aria-label="Fale Conosco pelo WhatsApp" onclick="return gtag_report_conversion(this.href);">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <div id="productModal" class="modal fixed inset-0 flex items-center justify-center p-4 z-[100]">
+        <div class="modal-content-container bg-white p-6 sm:p-8 rounded-xl shadow-2xl w-full max-w-md sm:max-w-lg" style="position: relative; max-width: 500px;">
+            <div class="flex justify-between items-center mb-4 sm:mb-6">
+                <h3 id="modalProductName" class="text-xl sm:text-2xl md:text-3xl font-bold" style="color: var(--cor-primaria);">Nome do Produto</h3>
+                <button id="closeModalBtn" style="background: none; border: none; font-size: 2em; color: #999; cursor: pointer; line-height: 1; transition: color 0.3s;">×</button>
+            </div>
+            <div style="text-align: center; margin-bottom: 20px;">
+                <div id="modalProductImageContainer" style="width: 150px; height: 150px; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
+                   </div>
+            </div>
+            <p id="modalProductDescription" style="color: var(--cor-texto); line-height: 1.6; margin-bottom: 20px;"></p>
+            <div style="background-color: #F0F5FA; padding: 15px; border-radius: 6px;">
+                <h5 style="font-weight: 600; color: var(--cor-primaria); margin-bottom: 5px; font-size: 1em;">Detalhes Adicionais:</h5>
+                <p id="modalProductDetails" style="color: #666; font-size: 0.9em; line-height: 1.4;"></p>
+            </div>
+            <div style="margin-top: 30px; display: flex; flex-direction: column; gap: 10px;">
+                <a id="whatsappButtonModal" href="#" target="_blank" class="btn-cta" style="background-color: var(--cor-cta); padding: 10px 15px; font-size: 1em; width: 100%; text-align: center;" onclick="return gtag_report_conversion(this.href);">
+                    <i class="fab fa-whatsapp mr-2"></i> Comprar via WhatsApp
+                </a>
+                <button id="closeModalBtnBottom" class="btn-secondary" style="background-color: var(--cor-secundaria); padding: 10px 15px; font-size: 1em; width: 100%; border-radius: 50px; color: white; border: none; cursor: pointer;">Fechar</button>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        // Array de Depoimentos para Rotação com Typing Animation
+        const singleDepoimentos = [
+            { name: "Fábio D.", quote: "Serviço excelente! Me salvaram num domingo à noite. Agora só compro com eles.", location: "Bairro Cancelli" },
+            { name: "Vinagre Transportes", quote: "Profissionalismo e seriedade. Peço para minha empresa e a entrega é sempre pontual.", location: "Região do Lago" },
+            { name: "Carolina S.", quote: "A entrega mais rápida que já vi em Cascavel! Pedi gás e água e chegou em 10 minutos. Atendimento nota 10!", location: "Bairro Universitário" },
+            { name: "Ana P.", quote: "Acabou o gás bem na hora do almoço. A entrega foi super rápida, salvaram minha refeição!", location: "Centro" },
+            { name: "Roberto M.", quote: "Muito atenciosos! O entregador instalou o botijão com toda segurança para minha mãe idosa.", location: "Bairro Maria Luiza" },
+            { name: "Fernanda L.", quote: "Praticidade total. Sempre peço o gás e a água juntos. Chega tudo rapidinho e com preço justo.", location: "Bairro Pacaembu" },
+            { name: "Carlos E.", quote: "Moro no Morumbi e só peço com a Zolet'S. Confiança é tudo, e eles nunca falham na entrega.", location: "Bairro Morumbi" },
+            { name: "Juliana R.", quote: "O atendimento pelo WhatsApp é muito prático. Respondem na hora e o motorista é muito educado.", location: "Bairro Alto Alegre" },
+            { name: "Marcos V.", quote: "Qualidade Ultragaz indiscutível. O botijão vem sempre limpo e lacrado. Recomendo.", location: "Parque São Paulo" },
+            { name: "Patrícia B.", quote: "A água mineral é de excelente qualidade. O entregador sempre tem a gentileza de colocar no suporte.", location: "Bairro Neva" },
+            { name: "Ricardo T.", quote: "Melhor distribuidora de Cascavel. Profissionais educados, uniformizados e muito ágeis.", location: "Bairro Country" }
+        ];
+
+        let depoimentoIndex = 0;
+        const typingSpeed = 45; // Velocidade de digitação (ms)
+        const erasingSpeed = 30; // Velocidade de apagamento (ms)
+        const pauseTime = 2500; // Tempo de pausa (ms)
+
+        function startTypingAnimation() {
+            const quoteElement = document.getElementById('testimonial-quote');
+            const metaElement = document.getElementById('testimonial-meta');
+            const cursorHtml = '<span class="typing-cursor"></span>';
+            
+            if (!quoteElement || !metaElement) return;
+
+            // Função para digitar o texto, letra por letra
+            function typeText(text, element, callback) {
+                let i = 0;
+                element.innerHTML = cursorHtml;
+                function typing() {
+                    if (i < text.length) {
+                        // Adiciona a próxima letra antes do cursor
+                        element.innerHTML = text.slice(0, i + 1) + cursorHtml;
+                        i++;
+                        setTimeout(typing, typingSpeed);
+                    } else {
+                        // Quando terminar de digitar, pausa e chama o callback
+                        element.innerHTML = text + cursorHtml; // Garante que o cursor fique no final
+                        if (callback) setTimeout(callback, pauseTime);
+                    }
+                }
+                typing();
+            }
+
+            // Função para apagar o texto, letra por letra
+            function eraseText(element, callback) {
+                let text = element.textContent.replace(/\s*$/, ''); // Remove espaços em branco do final
+                // O texto que vamos apagar é apenas a citação, não o meta.
+                
+                // Remove o cursor antes de calcular o tamanho, depois o recoloca
+                let currentQuoteText = element.textContent.replace(new RegExp(cursorHtml.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '.*$'), '');
+                let i = currentQuoteText.length;
+
+                function erasing() {
+                    if (i > 0) {
+                        currentQuoteText = currentQuoteText.slice(0, -1);
+                        element.innerHTML = currentQuoteText + cursorHtml;
+                        i--;
+                        setTimeout(erasing, erasingSpeed);
+                    } else {
+                        // Quando terminar de apagar, remove o cursor e chama o callback
+                        element.innerHTML = '';
+                        if (callback) callback();
+                    }
+                }
+                erasing();
+            }
+
+            // Função principal de ciclo
+            function cycleDepoimentos() {
+                const current = singleDepoimentos[depoimentoIndex];
+                
+                // 1. Configurar Meta (Imediato)
+                metaElement.innerHTML = `<strong>Cliente:</strong> ${current.name}<br><strong>Bairro:</strong> ${current.location}, Cascavel-PR`;
+                
+                // 2. Iniciar a digitação
+                typeText(`"${current.quote}"`, quoteElement, () => {
+                    // 3. Pausa com o texto completo
+                    
+                    // 4. Inicia o apagamento (apenas da citação)
+                    eraseText(quoteElement, () => {
+                        // 5. Apaga Meta e move para o próximo depoimento
+                        metaElement.innerHTML = ''; 
+                        depoimentoIndex = (depoimentoIndex + 1) % singleDepoimentos.length;
+                        
+                        // Pequena pausa antes de reiniciar o ciclo
+                        setTimeout(cycleDepoimentos, 500);
+                    });
+                });
+            }
+
+            // Inicia o ciclo após o DOM carregar
+            cycleDepoimentos();
+        }
+
+        document.addEventListener('DOMContentLoaded', startTypingAnimation);
+
+
+        // Array de Dados de Produtos (Mantido)
+        const productsData = {
+            botijao13kg: {
+                name: 'Botijão de Gás P13 Ultragaz',
+                imagePath: 'imagem/BOTIJÃO_DE_COZINHA_13KG_CASCAVEL-PR.jpg', 
+                description: 'O tradicional botijão de 13kg, ideal para sua cozinha. Qualidade e segurança Ultragaz que você já conhece e confia.',
+                details: 'Capacidade: 13kg. Gás GLP de alta pureza. Perfeito para fogões residenciais e pequenos comércios. Atende aos mais altos padrões de segurança da ANP. Entrega rápida em toda Cascavel-PR.',
+                whatsappText: 'Olá!%20Gostaria%20de%20comprar%20um%20Botijão%20de%20Gás.'
+            },
+            galao20l: {
+                name: 'Galão de Água Mineral 20L',
+                imagePath: 'imagem/GALÃO_20L_CASCAVEL-PR.jpg',
+                description: 'Água mineral de fonte natural, leve e saudável. Essencial para a hidratação de toda a família e para o seu bem-estar diário.',
+                details: 'Volume: 20 litros. Embalagem retornável e higienizada. Ideal para residências, escritórios e eventos. Verifique nossas opções de fontes e marcas.',
+                whatsappText: 'Olá!%20Gostaria%20de%20comprar%20um%20Galão%20de%20Água%2020L.'
+            },
+            mangueira: {
+                name: 'Mangueira para Gás de Cozinha',
+                imagePath: 'imagem/MANGUEIRA_CASCAVEL-PR.jpg',
+                description: 'Mangueira trançada de PVC com validade, certificada pelo INMETRO. Essencial para a segurança da sua instalação de gás.',
+                details: 'Comprimento padrão: 1,25m (outros tamanhos sob consulta). Material: PVC flexível com reforço interno. Conexões: Padrão para botijões P13 e fogões. Verifique a data de validade antes de usar.',
+                whatsappText: 'Olá!%20Gostaria%20de%20comprar%20uma%20Mangueira%20para%20Gás.'
+            },
+            registro: {
+                name: 'Registro Regulador de Gás',
+                imagePath: 'imagem/REGISTRO_CASCAVEL-PR.jpg',
+                description: 'Regulador de pressão para gás GLP, com selo do INMETRO. Garante o fluxo correto e seguro de gás para seu fogão.',
+                details: 'Modelo: Baixa pressão, para uso doméstico. Vazão: Conforme padrão (ex: 1kg/h). Conexão de entrada: Padrão botijão P13. Conexão de saída: Padrão para mangueira. Verifique a validade e substitua conforme recomendação do fabricante.',
+                whatsappText: 'Olá!%20Gostaria%20de%20comprar%20um%20Registro%20para%20Gás.'
+            }
+        };
+
+        const WHATSAPP_NUMBER = '5545999208741'; 
+        
+        // Lógica do Modal (Corrigida)
+        const productModal = document.getElementById('productModal');
+        const modalProductName = document.getElementById('modalProductName');
+        const modalProductImageContainer = document.getElementById('modalProductImageContainer');
+        const modalProductDescription = document.getElementById('modalProductDescription');
+        const modalProductDetails = document.getElementById('modalProductDetails');
+        const whatsappButtonModal = document.getElementById('whatsappButtonModal');
+        const closeModalBtn = document.getElementById('closeModalBtn');
+        const closeModalBtnBottom = document.getElementById('closeModalBtnBottom');
+
+        document.querySelectorAll('.product-card-modern').forEach(card => {
+            card.addEventListener('click', (event) => {
+                // Previne abertura do modal se o clique for diretamente no botão CTA
+                if (event.target.closest('.btn-cta')) {
+                    return;
+                }
+                const productId = card.dataset.productId;
+                const product = productsData[productId];
+                if (product) {
+                    modalProductName.textContent = product.name;
+                    modalProductImageContainer.innerHTML = `<img src="${product.imagePath}" alt="${product.name}" style="max-width: 100%; max-height: 100%; object-fit: contain;" onerror="this.onerror=null; this.src='https://placehold.co/150x150/CCCCCC/969696?text=Imagem Indisponível';">`;
+                    modalProductDescription.innerHTML = product.description; 
+                    modalProductDetails.innerHTML = product.details;
+                    whatsappButtonModal.href = `https://wa.me/${WHATSAPP_NUMBER}?text=${product.whatsappText}`;
+
+                    productModal.classList.add('active');
+                    document.body.style.overflow = 'hidden'; 
+                }
+            });
+        });
+
+        function closeModal() {
+            productModal.classList.remove('active');
+            document.body.style.overflow = ''; 
+        }
+
+        closeModalBtn.addEventListener('click', closeModal);
+        closeModalBtnBottom.addEventListener('click', closeModal);
+        productModal.addEventListener('click', (event) => {
+            if (event.target === productModal) { 
+                closeModal();
+            }
+        });
+        document.addEventListener('keydown', (event) => {
+            if (event.key === 'Escape' && productModal.classList.contains('active')) {
+                closeModal();
+            }
+        });
+
+        // Atualiza o ano no rodapé
+        document.getElementById('currentYear').textContent = new Date().getFullYear();
+
+        // JS para o Menu Hamburger (Mobile)
+        document.getElementById('hamburgerBtn').addEventListener('click', function() {
+            const mobileMenu = document.getElementById('mobileMenu');
+            mobileMenu.classList.toggle('open');
+            this.querySelector('i').classList.toggle('fa-bars');
+            this.querySelector('i').classList.toggle('fa-times');
+        });
+
+        // JS para o Loop Infinito do Marquee e Animação de Scroll (Mantido)
+        document.addEventListener('DOMContentLoaded', function() {
+            const scroller = document.querySelector('.scrolling-text-content');
+            if (scroller) {
+                const clone = scroller.cloneNode(true);
+                scroller.parentNode.appendChild(clone);
+            }
+
+            const animateElements = document.querySelectorAll('.animate-on-scroll');
+            const observer = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const delay = parseInt(entry.target.dataset.delay || 0);
+                        if (delay) {
+                            entry.target.style.transitionDelay = `${delay}ms`;
+                        }
+                        entry.target.classList.add('is-visible');
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, {
+                rootMargin: '0px',
+                threshold: 0.1
+            });
+            animateElements.forEach(element => {
+                observer.observe(element);
+            });
+        });
+
+        // JS para Navegação e Destaque do Link Ativo (Mantido)
+        document.addEventListener('DOMContentLoaded', function() {
+            const navLinks = document.querySelectorAll('.nav-link-futuristic, .nav-link-logo, .scroll-to-section');
+            const sections = document.querySelectorAll('main section');
+            const header = document.getElementById('header');
+            let headerHeight = header.offsetHeight;
+
+            window.addEventListener('resize', () => {
+                 headerHeight = header.offsetHeight;
+            });
+            
+            function setActiveLink() {
+                let current = '';
+                sections.forEach(section => {
+                    const sectionTop = section.offsetTop - header.offsetHeight - 20; 
+                    if (window.scrollY >= sectionTop) {
+                        current = section.getAttribute('id');
+                    }
+                });
+
+                navLinks.forEach(link => {
+                    link.classList.remove('active-nav-link');
+                    if (link.dataset.target && link.dataset.target.includes(current)) {
+                        link.classList.add('active-nav-link');
+                    }
+                    if (current === 'hero' && link.dataset.target === '#hero') {
+                         link.classList.add('active-nav-link');
+                    }
+                    if (link.classList.contains('nav-link-logo') && current === 'hero') {
+                         link.classList.add('active-nav-link');
+                    }
+                });
+            }
+
+            window.addEventListener('scroll', setActiveLink);
+            setActiveLink();
+            
+            navLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    
+                    document.getElementById('mobileMenu').classList.remove('open');
+                    document.getElementById('hamburgerBtn').querySelector('i').classList.remove('fa-times');
+                    document.getElementById('hamburgerBtn').querySelector('i').classList.add('fa-bars');
+
+                    const targetId = this.dataset.target || this.getAttribute('href');
+                    if (!targetId || targetId.startsWith('http')) return;
+
+                    const targetElement = document.querySelector(targetId);
+                    
+                    if (targetElement) {
+                        const offsetTop = targetElement.offsetTop - header.offsetHeight;
+                        window.scrollTo({
+                            top: offsetTop,
+                            behavior: 'smooth'
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
